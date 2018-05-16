@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #1. Desarrolle la estructura de un juego donde se use al menos 2 tipos diferentes de estructuras algorítmicas y 2 estructuras de datos.
 
-#Lista con productos alimenticios
+#Lista con productos alimenticios, simulación de un juego
 intentos=2
 print("Adivina que hay en tu cesta/ tienes 2 vidas")
 
