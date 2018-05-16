@@ -3,7 +3,7 @@
 
 #Lista con productos alimenticios, simulación de un juego de adivinanza
 intentos=2
-print("Adivina que hay en tu cesta/ tienes 2 vidas")
+print("Adivina que hay en tu cesta dec compras/ tienes 2 vidas")
 
 def game(respuesta):
 	lista=['manzanas','peras','bananas','mangos','pepinos','Jocote']
