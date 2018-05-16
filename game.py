@@ -6,7 +6,7 @@ intentos=2
 print("Adivina que hay en tu cesta dec compras/ tienes 2 vidas")
 
 def game(respuesta):
-	lista=['manzanas','peras','bananas','mangos','pepinos','Jocote']
+	lista=['manzanas','peras','Sandias','bananas','mangos','pepinos','Jocote']
 	correcto = False
 	for x in range(0,len(lista)):
 		if lista[x]==respuesta:
